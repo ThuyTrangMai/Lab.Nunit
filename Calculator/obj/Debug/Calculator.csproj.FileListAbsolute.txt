@@ -1,0 +1,29 @@
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\OU\Kỳ I năm Ba\KTPM\Thực hành\Lab2\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\OU\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\OU\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\OU\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\OU\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\OU\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\OU\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\OU\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\OU\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\OU\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\HP\Desktop\Calculator-20211225T073408Z-001\Calculator\Calculator\obj\Debug\Calculator.pdb
